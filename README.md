@@ -1,4 +1,12 @@
-# DrawPlay: Sidecar-style second screen for an Android tablet (Galaxy Tab S8)
+<p align="center">
+  <img src="DrawPlay%20Icons/DrawPlay-iOS-Default-256x256@1x.png" width="128" alt="DrawPlay app icon">
+</p>
+
+<h1 align="center">DrawPlay</h1>
+
+<p align="center">A Sidecar-style second screen for an Android tablet (Galaxy Tab S8).</p>
+
+> **AI Disclaimer:** This project was developed with the assistance of Claude AI. I believe AI-written code should be open source to benefit everyone and maintain transparency.
 
 The Mac makes a virtual monitor, streams it to the tablet, and the tablet sends pen and touch back.
 
@@ -87,3 +95,11 @@ The connection is not encrypted, so use Wi-Fi mode on networks you trust.
 ## More
 
 `docs/TOUCH_FINDINGS.md`: research on macOS 27 native touch. Architecture map: `DrawPlay Architecture Map.pdf`.
+
+## License
+
+[MIT](LICENSE): use, copy, modify, and share it however you like, including in your own projects. It is as open as a license gets while still being widely recognised.
+
+## Contributing
+
+This repository is not accepting contributions or pull requests. **Fork it** and make it your own; that is what the license is for.
